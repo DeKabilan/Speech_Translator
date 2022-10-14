@@ -1,4 +1,3 @@
-from gettext import translation
 import time
 from selenium import webdriver
 from selenium import *
